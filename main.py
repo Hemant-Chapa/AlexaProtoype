@@ -51,4 +51,3 @@ def run_alexa():
 
 run_alexa()
 
-#pywhatkit.sendwhatmsg(f"+919952098168", "Love you Phekku - This is python automated message",3,8)
