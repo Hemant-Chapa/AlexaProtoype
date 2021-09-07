@@ -1,0 +1,36 @@
+--------------------
+Date: 7:9:2021
+Time: 2:44
+Phone number: +919952098168
+Message: Hi! This is automated message
+--------------------
+Date: 7:9:2021
+Time: 2:48
+Phone number: +919952098168
+Message: Hi! This is automated message
+--------------------
+Date: 7:9:2021
+Time: 2:51
+Phone number: +919952098168
+Message: Hi! This is automated message
+--------------------
+Date: 7:9:2021
+Time: 2:52
+Phone number: +919952098168
+Message: Hi! This is automated message
+--------------------
+Date: 7:9:2021
+Time: 3:2
+Phone number: +919952098168
+Message: Love you Phekku - This is python automated message
+--------------------
+Date: 7:9:2021
+Time: 3:5
+Phone number: +919952098168
+Message: Love you Phekku - This is python automated message
+--------------------
+Date: 7:9:2021
+Time: 3:8
+Phone number: +919952098168
+Message: Love you Phekku - This is python automated message
+--------------------
